@@ -1,0 +1,20 @@
+{"items":[
+{"key":"main_screen", "value": "Pantalla Principal"},
+{"key":"settings", "value":"Opciones"}, 
+{"key":"start_game", "value": "Comenzar"}, {"key":"back_button", "value":"Regresar"},
+{"key": "load_game", "value":"Cargar juego"}, {"key":"exit_game", "value":"Salir"},
+{"key":"player_screen", "value":"Selección de jugadores de Yahtzee"}, {"key":"begin_button", "value":"Comenzar"},
+{"key":"player1_create", "value":"Apodo de jugadores 1.... (Opcional)"}, {"key":"player2_create", "value":"Apodo de jugadores 2.... (Opcional)"},
+{"key":"player3_create", "value":"Apodo de jugadores 3.... (Opcional)"}, {"key":"player4_create", "value":"Apodo de jugadores 4.... (Opcional)"},
+{"key":"player5_create", "value":"Apodo de jugadores 5.... (Opcional)"}, {"key":"player6_create", "value":"Apodo de jugadores 6.... (Opcional)"},
+{"key": "surrender_button", "value": "Rendirse"}, 
+{"key": "endTurn_button", "value": "Terminar Turno"}, {"key": "rollDice_button", "value": "tirar los dados"},
+{"key": "one_button","value": "Uno"},    {"key": "two_button","value": "Dos"},
+{"key": "three_button","value": "Tres"},    {"key": "four_button","value": "Quatro"},
+{"key": "five_button","value": "Cinco"},    {"key": "six_button","value": "Seis"},
+{"key": "threeKind_button","value": "Trío"},    {"key": "fourKind_button","value": "Póquer"},
+{"key": "fullHouse","value": "Full house"},    {"key": "smallStraight","value": "Escalera pequena"},
+{"key": "largeStraight","value": "Escalera Larga"},    {"key": "Yahtzee","value": "Yahtzee"},    {"key": "chance_button","value": "Oportunidad"}, {"key": "total", "value": "Total"},
+{"key": "master_volume", "value":"Volumen maestro"}, {"key": "mute", "value":"Silencio"}, {"key": "game_sound", "value": "Sonido de juego"}, {"key": "background_music", "value": "música de ambiente"},
+{"key": "bonus", "value":"bonificación"},   {"key": "upperScore", "value": "Marcador mas alto"}, {"key": "lowerScore", "value": "Marcador mas najo"}, {"key": "tinyStraight", "value": "Escalera minúscula"}
+]}

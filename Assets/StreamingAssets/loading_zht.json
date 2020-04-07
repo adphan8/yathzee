@@ -1,0 +1,20 @@
+{"items":[
+    {"key":"main_screen", "value": "主屏幕"},
+    {"key":"settings", "value":"設定"}, 
+    {"key":"start_game", "value": "開始"}, 
+     {"key":"exit_game", "value":"推出"},
+    {"key":"player_screen", "value":"Yahtzee選手選擇"},  {"key":"back_button", "value":"返回"},
+    {"key":"player1_create", "value":"第一個選手的名字 (任選)"}, {"key":"player2_create", "value":"第二個選手的名字.... (任選)"},
+    {"key":"player3_create", "value":"第三個選手的名字.... (任選)"}, {"key":"player4_create", "value":"第四個選手的名字.... (任選)"},
+    {"key":"player5_create", "value":"第五個選手的名字.... (任選)"}, {"key":"player6_create", "value":"第六個選手的名字.... (任選)"},
+    {"key": "surrender_button", "value": "拋棄"}, {"key": "endTurn_button", "value": "結束"}, {"key": "rollDice_button", "value": "擲骰子"},
+    {"key": "one_button","value": "一"},    {"key": "two_button","value": "二"}, 
+    {"key": "three_button","value": "三"},    {"key": "four_button","value": "四"},
+    {"key": "five_button","value": "五"},    {"key": "six_button","value": "六"},
+    {"key": "threeKind_button","value": "三條"},    {"key": "fourKind_button","value": "四條"},
+    {"key": "fullHouse","value": "滿堂紅"},    {"key": "smallStraight","value": "小順子"},
+    {"key": "largeStraight","value": "大順子"},    {"key": "Yahtzee","value": "Yahtzee"},    {"key": "chance_button","value": "機會"},
+    {"key": "master_volume", "value":"主要聲音"}, {"key": "mute", "value":"聲音"}, {"key": "game_sound", "value": "遊戲聲音"}, {"key": "background_music", "value": "背後音樂"},
+    {"key": "total", "value": "總數"}, {"key": "bonus", "value":"獎金"}, {"key": "dice", "value": "骰子的數字在這裡出現"}, {"key": "upperScore", "value": "最高分數"}, {"key": "lowerScore", "value": "最低分數"},
+    {"key": "tinyStraight", "value": "微順子"}, {"key": "language", "value": "語言" }
+    ]}

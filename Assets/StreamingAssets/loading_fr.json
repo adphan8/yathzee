@@ -1,0 +1,17 @@
+{"items":[
+{"key":"main_screen", "value": "Main Screen"},
+{"key":"settings", "value":"settings"}, 
+{"key":"start_game", "value": "Start Game"}, 
+{"key": "load_game", "value":"Load Game"}, {"key":"exit_game", "value":"Exit"},
+{"key":"player_screen", "value":"Yahtzee Player Select"}, {"key":"begin_button", "value":"Begin"},
+{"key":"player1_create", "value":"Player 1 Nickname.... (Optional)"}, {"key":"player2_create", "value":"Player 2 Nickname.... (Optional)"},
+{"key":"player3_create", "value":"Player 3 Nickname.... (Optional)"}, {"key":"player4_create", "value":"Player 4 Nickname.... (Optional)"},
+{"key":"player5_create", "value":"Player 5 Nickname.... (Optional)"}, {"key": "surrender_button", "value": ""}, {"key": "endTurn_button", "value": "End Turn"}, {"key": "rollDice_button", "value": "Roll Dice"},
+{"key": "one_button","value": "One"},    {"key": "two_button","value": "Twos"},
+{"key": "three_button","value": "Threes"},    {"key": "four_button","value": "Fours"},
+{"key": "five_button","value": "Five"},    {"key": "six_button","value": "sixes"},
+{"key": "threeKind_button","value": "Three of a Kind"},    {"key": "fourKind_button","value": "Four of a Kind"},
+{"key": "fullHouse","value": "Fullhouse"},    {"key": "smallStraight","value": "Small Straight"},
+{"key": "largeStraight","value": "Large Straight"},    {"key": "Yahtzee","value": "Yahtzee"},    {"key": "chance_button","value": "Chance"},
+{"key": "master_volume", "value":""}, {"key": "mute", "value":""}, {"key": "game_sound", "value": ""}, {"key": "background_music", "value": ""}
+]}
